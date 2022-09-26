@@ -2,7 +2,11 @@
 
 ## Distribuciones GNU/Linux
 
-### DKMS
+### Distribuciones derivadas de Debian GNU/Linux
+
+sudo apt-get update && sudo apt-get install dkms virtualbox 
+
+#### DKMS
 
 
-## Windows
+## WindowsPlease Check CPU Compatibility
