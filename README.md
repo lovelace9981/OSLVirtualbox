@@ -9,11 +9,14 @@
 
 ## Requisitos mínimos:
 
-CPU
-RAM
-Tecnologías de virtualización
+- __CPU:__ 4 núcleos físicos o 2 núcleso físicos con SMT
+- __RAM:__ 8GiB de RAM mínimo (Windows y GNU/Linux). 
+- __Tecnologías de virtualización__ 
+  - __VT-X__ - Sistemas Intel
+  - __AMD-V__ - Sistemas AMD
 
-VT-X - Sistemas Intel
+---
 
-
-AMD-V - Sistemas AMD
+## Motivación:
+ 
+Este taller está dirigido a los Ingenieros/as, que actualmente estén utilizando máquinas virtuales para la consecución de las prácticas de las asignaturas de Ingeniería informática. Tales como Sistemas Operativos, ISE,... Entre otras desde 2º a 4º año. Con el objetivo de entender la utilidad completa de las tecnologías de virtualización a un nivel m
